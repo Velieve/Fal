@@ -3,5 +3,7 @@ Ejercicios de la asignatura FAL - UCM impartida por [Isabel Pita Andreu](https:/
 
 
 
-#### :blue_book:Ej1 - [Numeros maximos](https://github.com/Velieve/Fal/tree/master/Ej1)
+#### 		:blue_book:Ej1 - [Numeros maximos](https://github.com/Velieve/Fal/tree/master/Ej1)
+
+#### 🤷Ej2 - [¿Esta bien dividido el vector?](https://github.com/Velieve/Fal/tree/master/Ej2)
 
