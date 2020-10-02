@@ -12,7 +12,7 @@ using namespace std;
 
 // función que resuelve el problema
 //Buscamos el max de la derecha y lo comparamos con el minimo de la derecha
-bool resolver(vector<int> vector, int pos) {
+bool resolver(vector<int> const& vector, int pos) {
     if (pos == vector.size() - 1)
         return true;
 
